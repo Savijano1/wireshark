@@ -97,6 +97,8 @@ Filtering Capabilities:
 Both Wireshark and tcpdump offer powerful filtering capabilities to focus on specific network traffic. Users can apply filters based on various criteria such as source/destination IP address, port numbers, protocol type, and packet content.
 These differences and similarities provide insight into the unique capabilities of Wireshark and tcpdump, making them valuable tools for network analysis and troubleshooting in different environments.
 
+![image](https://github.com/Savijano1/wireshark/assets/160799093/95f583b8-b3d4-4b69-9607-2ea44d5ce8c0)
+
 
 
 
